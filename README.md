@@ -10,7 +10,7 @@ Scope
  - Release of ﻿Film Business Buster™ White Paper (Business Plan) ✔
  - Development & Deployment of FBB Token (ERC-20) ✔
  - Deployment of FBB Token Presale  ✔
- - Deployment of FBB Token Initial Coin Offering
+ - Deployment of FBB Token Security Token Offering / Initial Coin Offering
  - Development & Deployment of the FBB Smart Contract™
 
  Timing

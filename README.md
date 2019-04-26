@@ -16,10 +16,10 @@ Scope
  Timing
  ------
  - White Paper              [ Mar  1st 2019 ] ✔
- - FBB Token                [ Mar  1st 2019 ] ✔
- - FBB Token Presale        [ Mar  1st 2019 ] ✔
- - FBB Token ICO            [ Apr  1st 2019 - Apr 30th 2019 ]
- - ﻿Film Business Buster™    [ Jun  1st 2019 ]
+ - FBB Token                [ Apr  1st 2019 ] ✔
+ - FBB Token Presale        [ Apr  1st 2019 ] ✔
+ - FBB Token STO/ICO        [ Jun  1st 2019 - Jun 30th 2019 ]
+ - ﻿Film Business Buster™    [ Jul  1st 2019 ]
 
 
  TFF Technical Team

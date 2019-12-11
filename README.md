@@ -17,9 +17,9 @@ Scope
  ------
  - White Paper              [ Mar  1st 2019 ] ✔
  - FBB Token                [ Apr  1st 2019 ] ✔
- - FBB Token Presale        [ Apr  1st 2019 ] ✔
- - FBB Token STO/ICO        [ Jun  1st 2019 - Jun 30th 2019 ]
- - ﻿Film Business Buster™ Smart Contract [ Jul  1st 2019 ]
+ - FBB Token Presale        [ Apr  1st 2019 - May 31st 2019 ] ✔
+ - FBB Token STO/ICO        [ Jun  1st 2019 - Mar 31st 2020 ]
+ - ﻿Film Business Buster™ Smart Contract [ Apr 1st 2020 ]
 
 
  TFF Technical Team
